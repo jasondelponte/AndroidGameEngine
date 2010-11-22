@@ -1,0 +1,5 @@
+A simple play experiment in creating a game engine for Android.
+
+
+Currently all it does is create message event pools that are passed between the renderer and simulation threads with almost no interaction from the GC.
+
